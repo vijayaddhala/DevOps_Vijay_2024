@@ -1,0 +1,2 @@
+I am new to learn git
+Git is compressive tool
